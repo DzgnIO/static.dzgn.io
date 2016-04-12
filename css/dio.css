@@ -98,27 +98,10 @@ header .row {
   border-radius: 20px;
 }
 
-.project-title {
-  text-align: center;
-}
-
 .body-dark {
   color: #313131;
   padding-left: 30px;
   padding-right: 30px;
-}
-
-.bio-pic {
-  border-radius: 100%;
-  margin-top: 60px;
-}
-
-.bio {
-  padding-top: 30px;
-}
-
-.bio-container {
-  text-align: left;
 }
 
 .text {
@@ -298,14 +281,7 @@ h1 a.social {
 
 
 /* SMALL ONLY */
-@media screen and (max-width: 39.9375em) {
-  .thumbnail .thumbnail-title {
-    opacity: 1;
-    font-size: 24px;
-    bottom: 20px;
-    text-shadow: 2px 2px 20px #313131;
-  }
-}
+@media screen and (max-width: 39.9375em) {}
 
 /* MEDIUM AND UP */
 @media screen and (min-width: 40em) {}
